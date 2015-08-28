@@ -11,6 +11,7 @@ namespace ShortcutGadget.Intel.WindowsLinks
 {
     public class LinkIconFactory
     {
+
         public PictureBox GetPictureBox(WindowsLink winlink)
         {
             PictureBox re = new PictureBox();
@@ -25,17 +26,20 @@ namespace ShortcutGadget.Intel.WindowsLinks
             re.TabStop = false;
             re.MouseEnter += (sn, ev) => { var obj = (PictureBox)sn; obj.BackColor = Color.Black; };
             re.MouseLeave += (sn, ev) => { var obj = (PictureBox)sn; obj.BackColor = Color.Transparent; };
+            re.MouseDown += (sn, ev) => { var obj = (PictureBox)sn; obj.BackColor = Color.DeepSkyBlue; };
             re.MouseClick += (sn, ev) =>
             {
                 if (ev.Button == System.Windows.Forms.MouseButtons.Left)
-                    ExecuteCommandMiddleware(winlink.MainCommand, winlink.ExecutionMode);
+                {
+                    ExecuteCommandProxy(winlink.MainCommand, winlink.ExecutionMode);
+                }
             };
             List<MenuItem> subItems = new List<MenuItem>();
             foreach (var v in winlink.SubCommands)
             {
                 MenuItem item = new MenuItem();
                 item.Text = v.Item1;
-                item.Click += (sn, ev) => ExecuteCommandMiddleware(v.Item2, v.Item3);
+                item.Click += (sn, ev) => ExecuteCommandProxy(v.Item2, v.Item3);
                 subItems.Add(item);
             }
 
@@ -48,7 +52,7 @@ namespace ShortcutGadget.Intel.WindowsLinks
                 {
                     MenuItem ir = new MenuItem();
                     ir.Text = v.Item1;
-                    ir.Click += (sn, ev) => ExecuteCommandMiddleware(v.Item2, v.Item3);
+                    ir.Click += (sn, ev) => ExecuteCommandProxy(v.Item2, v.Item3);
                     extralist.Add(ir);
                 }
             }
@@ -57,7 +61,7 @@ namespace ShortcutGadget.Intel.WindowsLinks
             return re;
         }
 
-        private void ExecuteCommandMiddleware(string command, ExecutionMode mode)
+        private void ExecuteCommandProxy(string command, ExecutionMode mode)
         {
             switch(mode)
             {
