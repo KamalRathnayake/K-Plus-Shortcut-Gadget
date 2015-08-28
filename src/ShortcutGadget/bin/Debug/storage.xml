@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<storage>
+  <shortcuts>
+    <shortcut id="1">
+      <name>documents</name>
+      <link>F:\</link>
+      <accessCount>55</accessCount>
+    </shortcut>
+    <shortcut id="2">
+      <name>music</name>
+      <link>f:\music</link>
+      <accessCount>16</accessCount>
+    </shortcut>
+    <shortcut id="3">
+      <name>idm cache</name>
+      <link>C:\Users\KAMAL RATHNAYAKE\AppData\Roaming\IDM\DwnlData\KAMAL RATHNAYAKE</link>
+      <accessCount>41</accessCount>
+    </shortcut>
+    <shortcut id="4">
+      <name>music videos</name>
+      <link>f:\Videos\Music Videos</link>
+      <accessCount>15</accessCount>
+    </shortcut>
+    <shortcut id="5">
+      <name>tv shows</name>
+      <link>f:\Videos\TV Shows</link>
+      <accessCount>26</accessCount>
+    </shortcut>
+    <shortcut id="6">
+      <name>software</name>
+      <link>f:\Other\Software</link>
+      <accessCount>33</accessCount>
+    </shortcut>
+    <shortcut id="7">
+      <name>backups</name>
+      <link>f:\Other\Other\Downloads</link>
+      <accessCount>65</accessCount>
+    </shortcut>
+    <shortcut id="8">
+      <name>library</name>
+      <link>f:\Other\Library</link>
+      <accessCount>13</accessCount>
+    </shortcut>
+    <shortcut id="9">
+      <name>buddhism</name>
+      <link>f:\Buddhism</link>
+      <accessCount>30</accessCount>
+    </shortcut>
+    <shortcut id="10">
+      <name>downloads</name>
+      <link>C:\Users\KAMAL RATHNAYAKE\Downloads</link>
+      <accessCount>29</accessCount>
+    </shortcut>
+    <shortcut id="11">
+      <name>developer</name>
+      <link>F:\Dev</link>
+      <accessCount>0</accessCount>
+    </shortcut>
+    <shortcut id="12">
+      <name>learning dvds</name>
+      <link>F:\Other\Learning CDs</link>
+      <accessCount>2</accessCount>
+    </shortcut>
+  </shortcuts>
+  <settings>
+    <setting key="APP_BACKGROUND_RED">128</setting>
+    <setting key="APP_BACKGROUND_GREEN">0</setting>
+    <setting key="APP_BACKGROUND_BLUE">64</setting>
+    <setting key="PANEL_ACTIVE">true</setting>
+    <setting key="PANEL_TYPE">1</setting>
+    <setting key="PANEL_DRIVE_INFO_VIEW_FIXED">true</setting>
+    <setting key="SORT_BY_USAGE">false</setting>
+    <setting key="FADE_IN_OUT_ANIMATION_TIME_MS">110</setting>
+  </settings>
+</storage>

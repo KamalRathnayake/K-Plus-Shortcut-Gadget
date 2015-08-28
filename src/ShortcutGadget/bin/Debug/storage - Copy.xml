@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<storage>
+  <shortcuts>
+    <shortcut id="1">
+      <name>documents</name>
+      <link>f:</link>
+      <accessCount>17</accessCount>
+    </shortcut>
+    <shortcut id="2">
+      <name>music</name>
+      <link>f:\music</link>
+      <accessCount>14</accessCount>
+    </shortcut>
+    <shortcut id="3">
+      <name>idm cache</name>
+      <link>C:\Users\KAMAL RATHNAYAKE\AppData\Roaming\IDM\DwnlData\KAMAL RATHNAYAKE</link>
+      <accessCount>28</accessCount>
+    </shortcut>
+    <shortcut id="4">
+      <name>music videos</name>
+      <link>f:\Videos\Music Videos</link>
+      <accessCount>13</accessCount>
+    </shortcut>
+    <shortcut id="5">
+      <name>tv shows</name>
+      <link>f:\Videos\TV Shows</link>
+      <accessCount>25</accessCount>
+    </shortcut>
+    <shortcut id="6">
+      <name>software</name>
+      <link>f:\Other\Software</link>
+      <accessCount>22</accessCount>
+    </shortcut>
+    <shortcut id="7">
+      <name>backups</name>
+      <link>f:\Other\Other\Downloads</link>
+      <accessCount>50</accessCount>
+    </shortcut>
+    <shortcut id="8">
+      <name>library</name>
+      <link>f:\Other\Library</link>
+      <accessCount>10</accessCount>
+    </shortcut>
+    <shortcut id="9">
+      <name>buddhism</name>
+      <link>f:\Buddhism</link>
+      <accessCount>27</accessCount>
+    </shortcut>
+    <shortcut id="10">
+      <name>downloads</name>
+      <link>C:\Users\KAMAL RATHNAYAKE\Downloads</link>
+      <accessCount>12</accessCount>
+    </shortcut>
+    <shortcut id="12">
+      <name>TEST 2</name>
+      <link>c:\demons3</link>
+      <accessCount>1</accessCount>
+    </shortcut>
+  </shortcuts>
+  <settings>
+    <setting key="APP_BACKGROUND_RED">0</setting>
+    <setting key="APP_BACKGROUND_GREEN">128</setting>
+    <setting key="APP_BACKGROUND_BLUE">192</setting>
+    <setting key="PANEL_ACTIVE">true</setting>
+    <setting key="PANEL_TYPE">0</setting>
+    <setting key="PANEL_DRIVE_INFO_VIEW_FIXED">true</setting>
+    <setting key="SORT_BY_USAGE">false</setting>
+    <setting key="FADE_IN_OUT_ANIMATION_TIME_MS">110</setting>
+  </settings>
+</storage>

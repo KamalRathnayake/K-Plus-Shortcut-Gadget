@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTests\bin\Debug\ShortcutGadget.UnitTests.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-08-13" time="11:55:05">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.7905" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="KAMAL-PC" user="Kamal Rathnayake" user-domain="KAMAL-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-GB" />
+  <test-suite type="Assembly" name="F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTests\bin\Debug\ShortcutGadget.UnitTests.dll" executed="True" result="Failure" success="False" time="0.220" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ShortcutGadget" executed="True" result="Failure" success="False" time="0.176" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Failure" success="False" time="0.175" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Storage" executed="True" result="Failure" success="False" time="0.174" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="BinStorageTests" executed="True" result="Failure" success="False" time="0.170" asserts="0">
+                    <results>
+                      <test-suite type="ParameterizedTest" name="saveFolderLink" executed="True" result="Failure" success="False" time="0.150" asserts="0">
+                        <results>
+                          <test-case name="ShortcutGadget.UnitTests.Storage.BinStorageTests.saveFolderLink()" executed="True" result="Error" success="False" time="0.133" asserts="0">
+                            <failure>
+                              <message><![CDATA[System.IO.FileNotFoundException : Could not find file 'F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTests\bin\Debug\bstorage.bin'.]]></message>
+                              <stack-trace><![CDATA[at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+at System.IO.File.Open(String path, FileMode mode)
+at ShortcutGadget.Model.BinarySerializationEngine`1.Get() in f:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\Model\BinarySerializationEngine.cs:line 28
+at ShortcutGadget.Model.Concrete.BinaryStorage.Get() in f:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\Model\Concrete\BinaryStorage.cs:line 21
+at ShortcutGadget.UnitTests.Storage.BinStorageTests.saveFolderLink() in f:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTests\Storage\StorageTests.cs:line 18
+]]></stack-trace>
+                            </failure>
+                          </test-case>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

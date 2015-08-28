@@ -1,0 +1,12 @@
+F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\bin\Debug\ShortcutGadget.UnitTest.exe.config
+F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\bin\Debug\ShortcutGadget.UnitTest.exe
+F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\bin\Debug\ShortcutGadget.UnitTest.pdb
+F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\obj\Debug\ShortcutGadget.UnitTest.csprojResolveAssemblyReference.cache
+F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\obj\Debug\ShortcutGadget.UnitTest.exe
+F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\obj\Debug\ShortcutGadget.UnitTest.pdb
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\bin\Debug\ShortcutGadget.UnitTest.exe.config
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\obj\Debug\ShortcutGadget.UnitTest.exe
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\obj\Debug\ShortcutGadget.UnitTest.pdb
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\bin\Debug\ShortcutGadget.UnitTest.exe
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\bin\Debug\ShortcutGadget.UnitTest.pdb
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTest\obj\Debug\ShortcutGadget.UnitTest.csprojResolveAssemblyReference.cache

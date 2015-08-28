@@ -1,0 +1,16 @@
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.exe.config
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.exe
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.pdb
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.csprojResolveAssemblyReference.cache
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.exe
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.pdb
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.exe
+F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.pdb
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.exe.config
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.exe
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.pdb
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.exe
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.pdb
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.exe
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.pdb
+D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.csprojResolveAssemblyReference.cache
