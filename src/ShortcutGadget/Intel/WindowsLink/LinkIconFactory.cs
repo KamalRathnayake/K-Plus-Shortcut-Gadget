@@ -11,7 +11,11 @@ namespace ShortcutGadget.Intel.WindowsLinks
 {
     public class LinkIconFactory
     {
-
+        private Form1 handle;
+        public LinkIconFactory(Form1 Handle)
+        {
+            handle = Handle;
+        }
         public PictureBox GetPictureBox(WindowsLink winlink)
         {
             PictureBox re = new PictureBox();
@@ -32,6 +36,7 @@ namespace ShortcutGadget.Intel.WindowsLinks
                 if (ev.Button == System.Windows.Forms.MouseButtons.Left)
                 {
                     ExecuteCommandProxy(winlink.MainCommand, winlink.ExecutionMode);
+                    handle.effects.FadeOut(handle.FadingMilli);
                 }
             };
             List<MenuItem> subItems = new List<MenuItem>();

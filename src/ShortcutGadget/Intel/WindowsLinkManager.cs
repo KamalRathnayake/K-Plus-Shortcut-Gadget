@@ -20,7 +20,7 @@ namespace ShortcutGadget.Intel
         {
             this.handle = handle;
             winLinks = WindowsLinkFactory.WindowsLinks;
-            iconFactory = new LinkIconFactory();
+            iconFactory = new LinkIconFactory(handle);
         }
         public void Initialize()
         {
