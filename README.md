@@ -1,4 +1,4 @@
-# K-Plus-Shortcut-Gadget Beta 
+# K+ Shortcut Gadget Beta
 This is a small windows application that can be used to access places of of your windows system easily.
 
 ### How to use it
