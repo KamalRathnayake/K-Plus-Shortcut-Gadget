@@ -1,4 +1,5 @@
-﻿using ShortcutGadget.Model;
+﻿using Microsoft.Win32;
+using ShortcutGadget.Model;
 using ShortcutGadget.Model.Concrete;
 using System;
 using System.Collections.Generic;
@@ -33,6 +34,12 @@ namespace ShortcutGadget
         {
             this.BackColor = Color.White;
             this.Left = 350;
+
+            RegistryKey rk = Registry.CurrentUser.OpenSubKey("SOFTWARE\\MICROSOFT\\Windows\\CurrentVersion\\Run", true);
+            if (rk.GetValue("KPlus_Shortcut_Gadget") == null)
+                checkBox1.Checked = false;
+            else checkBox1.Checked = true;
+
             button1.MouseClick += (s, e1) => { ShortcutView sv = new ShortcutView(new FolderLink() { ID = ShortcutRepository.Shortcuts.Count() },this,SVMode.CreateNew); sv.ShowDialog(); };
             button3.MouseClick += (s, e1) =>
             {
@@ -104,6 +111,8 @@ namespace ShortcutGadget
             }
 
             frm.engine.ViewShortcuts();
+
+            this.Close();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -216,6 +225,13 @@ namespace ShortcutGadget
                 }
                 catch (Exception ex) {Form1.msg("The save file is currupted!. " + ex.Message, MessageBoxIcon.Exclamation);}
             }
+        }
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            SystemUtility.Catch(() =>
+            {
+                SystemUtility.RegisterInStartup(checkBox1.Checked);
+            });
         }
     }
 }

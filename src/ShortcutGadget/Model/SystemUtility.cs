@@ -1,4 +1,5 @@
-﻿using ShortcutGadget.Intel;
+﻿using Microsoft.Win32;
+using ShortcutGadget.Intel;
 using ShortcutGadget.Model.Concrete;
 using System;
 using System.Collections.Generic;
@@ -40,6 +41,32 @@ namespace ShortcutGadget.Model
             if (!Directory.Exists(DirectoryInAppDataPath)) Directory.CreateDirectory(DirectoryInAppDataPath);
             if (!File.Exists(StorageFileInAppDataPath)) File.Create(StorageFileInAppDataPath);
             initialized = true;
+        }
+
+        public static void RegisterInStartup(bool isChecked)
+        {
+            RegistryKey registryKey = Registry.CurrentUser.OpenSubKey
+                    ("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
+            if (isChecked)
+            {
+                registryKey.SetValue("KPlus_Shortcut_Gadget", Application.ExecutablePath);
+            }
+            else
+            {
+                registryKey.DeleteValue("KPlus_Shortcut_Gadget");
+            }
+        }
+
+        public static void Catch(Action action)
+        {
+            try
+            {
+                action();
+            }
+            catch (Exception ex)
+            {
+                Form1.msg(ex.Message);
+            }
         }
     }
 }

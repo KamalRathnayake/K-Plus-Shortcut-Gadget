@@ -1,99 +1,10 @@
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-c:\users\kamal rathnayake\documents\visual studio 2013\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-D:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget - Copy\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget 1.1\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-E:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-F:\Other\Other\Downloads\2014 06 14\Projects\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.exe
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.exe
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.csprojResolveAssemblyReference.cache
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
-D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\bin\Debug\ShortcutGadget.exe.config
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\bin\Debug\ShortcutGadget.exe
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\bin\Debug\ShortcutGadget.pdb
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Debug\ShortcutGadget.Form1.resources
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Debug\ShortcutGadget.Properties.Resources.resources
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Debug\ShortcutGadget.Settings.resources
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Debug\ShortcutGadget.ShortcutView.resources
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Debug\ShortcutGadget.csproj.GenerateResource.Cache
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Debug\ShortcutGadget.exe
+D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Debug\ShortcutGadget.pdb
