@@ -15,3 +15,11 @@ D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\Shortcu
 D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Debug\ShortcutGadget.UnitTests.csprojResolveAssemblyReference.cache
 D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Debug\ShortcutGadget.UnitTests.dll
 D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Debug\ShortcutGadget.UnitTests.pdb
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Debug\ShortcutGadget.UnitTests.dll
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Debug\ShortcutGadget.UnitTests.pdb
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Debug\ShortcutGadget.exe
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Debug\ShortcutGadget.pdb
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Debug\nunit.framework.xml
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Debug\ShortcutGadget.UnitTests.csprojResolveAssemblyReference.cache
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Debug\ShortcutGadget.UnitTests.dll
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Debug\ShortcutGadget.UnitTests.pdb

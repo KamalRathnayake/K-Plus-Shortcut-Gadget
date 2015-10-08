@@ -22,3 +22,11 @@ D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\Shortcu
 D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Debug\ShortcutGadget.Console.csprojResolveAssemblyReference.cache
 D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Debug\ShortcutGadget.Console.exe
 D:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Debug\ShortcutGadget.Console.pdb
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Debug\ShortcutGadget.Console.exe.config
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Debug\ShortcutGadget.Console.exe
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Debug\ShortcutGadget.Console.pdb
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Debug\ShortcutGadget.exe
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Debug\ShortcutGadget.pdb
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Debug\ShortcutGadget.Console.csprojResolveAssemblyReference.cache
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Debug\ShortcutGadget.Console.exe
+E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Debug\ShortcutGadget.Console.pdb
