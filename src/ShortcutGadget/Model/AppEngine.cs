@@ -178,7 +178,7 @@ namespace ShortcutGadget.Model
             re.MenuItems.AddRange(re_menus.ToArray());
             MenuItem removeItem = new MenuItem();
             removeItem.Text = "Remove This";
-            removeItem.Click += (xn, ev) => { if (Form1.msgask("Are you sure you want this removed?") == DialogResult.Yes) { handle.ShortcutRepository.Remove(handle.ShortcutRepository.Shortcuts.Where(x => x.ExplorerLink.ToLower() == p.ToLower()).First().ID); ViewShortcuts();  } };
+            removeItem.Click += (xn, ev) => { /*if (Form1.msgask("Are you sure you want this removed?") == DialogResult.Yes)*/ { handle.ShortcutRepository.Remove(handle.ShortcutRepository.Shortcuts.Where(x => x.ExplorerLink.ToLower() == p.ToLower()).First().ID); ViewShortcuts();  } };
             re.MenuItems.Add(removeItem);
             return re;
         }

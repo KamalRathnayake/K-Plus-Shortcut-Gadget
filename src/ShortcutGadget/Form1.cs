@@ -68,7 +68,7 @@ namespace ShortcutGadget
                 string path = files[0];
                 if (!Directory.Exists(path)) { msg("The input should be a valid directory", MessageBoxIcon.Exclamation); return; }
                 string name = path.Split('\\').Last();
-                if(msgask("Are you sure you want '"+path+"' as a shortcut?")==DialogResult.Yes)
+                //if(msgask("Are you sure you want '"+path+"' as a shortcut?")==DialogResult.Yes)
                         ShortcutRepository.Add(new FolderLink() { Name = name, ExplorerLink = path });
 
                 engine.ViewShortcuts();
