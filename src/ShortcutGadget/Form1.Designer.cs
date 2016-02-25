@@ -44,6 +44,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.draganddropmessage = new System.Windows.Forms.Label();
             this.main_panel_2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.main_panel_1.SuspendLayout();
@@ -218,6 +219,16 @@
             this.panel2.Size = new System.Drawing.Size(238, 257);
             this.panel2.TabIndex = 6;
             // 
+            // draganddropmessage
+            // 
+            this.draganddropmessage.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.draganddropmessage.ForeColor = System.Drawing.Color.White;
+            this.draganddropmessage.Location = new System.Drawing.Point(24, 107);
+            this.draganddropmessage.Name = "draganddropmessage";
+            this.draganddropmessage.Size = new System.Drawing.Size(237, 167);
+            this.draganddropmessage.TabIndex = 7;
+            this.draganddropmessage.Text = "drag and drop a folder to get started";
+            // 
             // Form1
             // 
             this.AllowDrop = true;
@@ -225,6 +236,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(718, 733);
+            this.Controls.Add(this.draganddropmessage);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.main_panel_1);
@@ -272,7 +284,7 @@
         public System.Windows.Forms.Panel panel2;
         public System.Windows.Forms.Label file_count_lbl;
         public System.Windows.Forms.Label folder_count_lbl;
-
+        public System.Windows.Forms.Label draganddropmessage;
     }
 }
 

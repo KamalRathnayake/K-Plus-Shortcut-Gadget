@@ -28,6 +28,7 @@ namespace ShortcutGadget
             Mode = svMode;
         }
 
+
         private void ShortcutView_Load(object sender, EventArgs e)
         {
             updateUI();

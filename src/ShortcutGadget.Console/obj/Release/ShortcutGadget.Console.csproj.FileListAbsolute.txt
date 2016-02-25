@@ -14,3 +14,11 @@ D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\
 D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.exe
 D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\bin\Release\ShortcutGadget.pdb
 D:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.csprojResolveAssemblyReference.cache
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.exe.config
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.exe
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Release\ShortcutGadget.Console.pdb
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Release\ShortcutGadget.exe
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\bin\Release\ShortcutGadget.pdb
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.csprojResolveAssemblyReference.cache
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.exe
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.Console\obj\Release\ShortcutGadget.Console.pdb

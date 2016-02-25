@@ -51,6 +51,7 @@
             this.button5 = new System.Windows.Forms.Button();
             this.label11 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.label10 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -62,7 +63,6 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -289,7 +289,7 @@
             this.label11.AutoSize = true;
             this.label11.Location = new System.Drawing.Point(16, 28);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(314, 13);
+            this.label11.Size = new System.Drawing.Size(313, 13);
             this.label11.TabIndex = 0;
             this.label11.Text = "You can back up the list of shortcuts and restore them here.";
             // 
@@ -307,6 +307,17 @@
             this.groupBox2.TabIndex = 14;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "User Interface Behavior";
+            // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(189, 106);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(157, 17);
+            this.checkBox1.TabIndex = 16;
+            this.checkBox1.Text = "Start @ Windows Startup";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // label10
             // 
@@ -405,7 +416,7 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI Light", 20.25F);
             this.label1.Location = new System.Drawing.Point(16, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(239, 37);
+            this.label1.Size = new System.Drawing.Size(240, 37);
             this.label1.TabIndex = 1;
             this.label1.Text = "K+ Shortcut Gadget";
             // 
@@ -417,17 +428,6 @@
             this.richTextBox1.Size = new System.Drawing.Size(535, 226);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
-            // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(189, 106);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(157, 17);
-            this.checkBox1.TabIndex = 16;
-            this.checkBox1.Text = "Start @ Windows Startup";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // Settings
             // 

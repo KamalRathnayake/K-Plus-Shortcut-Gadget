@@ -33,3 +33,14 @@ E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\Shortcu
 E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.Settings.resources
 E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.ShortcutView.resources
 E:\Dev\Projects\K+ Shortcut Gadget\Repository\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.csproj.GenerateResource.Cache
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\bin\Release\ShortcutGadget.exe.config
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.exe
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.pdb
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\bin\Release\ShortcutGadget.exe
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\bin\Release\ShortcutGadget.pdb
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.Form1.resources
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.Properties.Resources.resources
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.Settings.resources
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.ShortcutView.resources
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.csproj.GenerateResource.Cache
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget\obj\Release\ShortcutGadget.csprojResolveAssemblyReference.cache

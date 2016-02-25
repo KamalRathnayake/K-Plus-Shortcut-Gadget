@@ -30,12 +30,14 @@ namespace ShortcutGadget.Model
         public void Initialize()
         {
 
+
             handle.serializationEngine = new BinarySerializationEngine<BinaryStorage>(SystemUtility.StorageFileInAppDataPath);
 
             handle.binStorage = BinaryStorage.Get(handle.serializationEngine);
             handle.ShortcutRepository = new BinaryShortcutsRepository(handle.binStorage);
             handle.SettingsRepository = new BinarySettingsRepository(handle.binStorage);
 
+            UpdateDragnDropMessage();
 
             //IShortcutRepository srep = new XMLShortcutRepository();
             //srep.Shortcuts.ToList().ForEach(x => handle.ShortcutRepository.Add(x));
@@ -95,11 +97,11 @@ namespace ShortcutGadget.Model
 
         public void ViewShortcuts()
         {
+            UpdateDragnDropMessage();
             int thisHeightControlled = handle.panel2.Height;
             handle.panel2.Controls.Clear();
             for (int k = 0; k < handle.ShortcutRepository.Shortcuts.Count(); k++)
             {
-
                 Model.FolderLink v = null;
                 if (bool.Parse(handle.SettingsRepository.Receive("SORT_BY_USAGE").Value))
                     v = handle.ShortcutRepository.Shortcuts.OrderByDescending(x => x.AccessCount).ToList()[k];
@@ -165,7 +167,11 @@ namespace ShortcutGadget.Model
 
             }
         }
-
+        public void UpdateDragnDropMessage()
+        {
+            //Removing the drag and drop message if there is directories added
+            handle.draganddropmessage.Visible = handle.ShortcutRepository.Shortcuts.Count() == 0;
+        }
         private ContextMenu GetContextMenu(string p)
         {
             ContextMenu re = new ContextMenu();
@@ -206,7 +212,6 @@ namespace ShortcutGadget.Model
             }
             return paths.ToList() ;
         }
-
         private List<string> ItemsLastAccessSorted(string path)
         {
             List<string> re = new List<string>();

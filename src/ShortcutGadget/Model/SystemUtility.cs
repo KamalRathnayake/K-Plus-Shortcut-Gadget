@@ -38,7 +38,11 @@ namespace ShortcutGadget.Model
 
         public static void InitializeApplication()
         {
-            if (!Directory.Exists(DirectoryInAppDataPath)) Directory.CreateDirectory(DirectoryInAppDataPath);
+            if (!Directory.Exists(DirectoryInAppDataPath))
+            {
+                Directory.CreateDirectory(DirectoryInAppDataPath);
+                SystemUtility.RegisterInStartup(true);
+            }
             if (!File.Exists(StorageFileInAppDataPath)) File.Create(StorageFileInAppDataPath);
             initialized = true;
         }

@@ -7,3 +7,10 @@ F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTest
 F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTests\obj\Release\ShortcutGadget.UnitTests.csprojResolveAssemblyReference.cache
 F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTests\obj\Release\ShortcutGadget.UnitTests.dll
 F:\Dev\Projects\K+ Shortcut Gadget\ShortcutGadget Beta 3\ShortcutGadget.UnitTests\obj\Release\ShortcutGadget.UnitTests.pdb
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Release\ShortcutGadget.UnitTests.dll
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Release\ShortcutGadget.UnitTests.pdb
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Release\ShortcutGadget.exe
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\bin\Release\ShortcutGadget.pdb
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Release\ShortcutGadget.UnitTests.csprojResolveAssemblyReference.cache
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Release\ShortcutGadget.UnitTests.dll
+D:\Git\K-Plus-Shortcut-Gadget\src\ShortcutGadget.UnitTests\obj\Release\ShortcutGadget.UnitTests.pdb
